@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.10"
-  version: "1.6.11.20260518"
+  version: "1.7.2.20260807"
 
 package:
   name: types-authlib
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-authlib/types_authlib-${{ version }}.tar.gz
-  sha256: 15b9a257e849e740241baa2113dd868c1b295cdc32449e54b109e9fc0105b556
+  sha256: b2f557c15c7447296174d2fb33048ae61dac4b1399a953b6f917b9e8e5995186
 
 build:
   number: 0
